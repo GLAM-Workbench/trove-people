@@ -12,3 +12,4 @@ lxml
 upsetplot
 python-dotenv
 python-slugify
+pyvis
