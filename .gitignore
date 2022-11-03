@@ -3,3 +3,17 @@
 .ipynb_checkpoints
 requirements-tocheck.in
 dev-requirements.txt
+Untitled*.ipynb
+ausstage*
+peau-data.xml
+peau-data.zip
+peau_ids.txt
+.python-version
+formatters.json
+http_cache.sqlite
+occupations.csv
+types.csv
+sources.html
+sources.csv
+source_groups.csv
+peau_ids.json

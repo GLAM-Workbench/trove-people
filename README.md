@@ -1,18 +1,20 @@
 # Trove People and Organisations
 
-Current version: [v0.0.0](https://github.com/GLAM-Workbench/trove-people/releases/tag/v0.0.0)
+Current version: [v1.0.0](https://github.com/GLAM-Workbench/trove-people/releases/tag/v1.0.0)
 
 Examples of working with data from Trove's People and Organisations zone. For more information see the [Trove People and Organisations](https://glam-workbench.net/trove-people-and-organisations/) section of the GLAM Workbench.
 
 ## Notebook topics
 
-* [Notebook title](notebook.ipynb) – this notebook does things
+* [Harvesting the complete set of data from the People and Organisations zone](complete_harvest.ipynb)
+* [Extract some aggregated data from the complete harvest](extract_aggregated_data_from_harvest.ipynb)
+* [Harvest SRU API results as JSON](get_sru_results_as_json.ipynb)
+* [Visualising intersections and overlaps between data sources](intersections.ipynb)
+* [Get VIAF links relating to Trove People & Organisation records](viaf.ipynb)
 
 See the [GLAM Workbench for more details](https://glam-workbench.github.io/trove-people-and-organisations/).
 
-
 <!-- START RUN INFO -->
-
 
 ## Run these notebooks
 
@@ -75,7 +77,7 @@ See [Getting started](https://glam-workbench.net/getting-started/#using-python-o
 
 ## Cite as
 
-See the GLAM Workbench or [Zenodo](https://doi.org/10.5281/zenodo.3521724) for up-to-date citation details.
+See the [GLAM Workbench](https://glam-workbench.net/trove-people-and-organisations/#cite-as) or [Zenodo](https://doi.org/10.5281/zenodo.6622312) for up-to-date citation details.
 
 ----
 
