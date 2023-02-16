@@ -5,8 +5,9 @@ requirements-tocheck.in
 dev-requirements.txt
 Untitled*.ipynb
 ausstage*
-peau-data.xml
-peau-data.zip
+peau-data*.xml
+peau-oai-data*.xml
+peau-data*.zip
 peau_ids.txt
 .python-version
 formatters.json
@@ -16,4 +17,9 @@ types.csv
 sources.html
 sources.csv
 source_groups.csv
-peau_ids.json
+peau_ids*.json
+*_oai.csv
+*_oai.json
+*_oai.txt
+draft*.ipynb
+.env

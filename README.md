@@ -7,6 +7,7 @@ Examples of working with data from Trove's People and Organisations zone. For mo
 ## Notebook topics
 
 * [Harvesting the complete set of data from the People and Organisations zone](complete_harvest.ipynb)
+* [Harvesting the complete set of data from the People and Organisations zone using OAI-PMH](complete_harvest.ipynb)
 * [Extract some aggregated data from the complete harvest](extract_aggregated_data_from_harvest.ipynb)
 * [Harvest SRU API results as JSON](get_sru_results_as_json.ipynb)
 * [Visualising intersections and overlaps between data sources](intersections.ipynb)
