@@ -29,7 +29,7 @@
     "Jupyter",
     "GLAM Workbench"
   ],
-  "publication_date": "2022-11-03",
+  "publication_date": "2023-02-16",
   "creators": [
     {
       "name": "Sherratt, Tim",
@@ -37,5 +37,5 @@
     }
   ],
   "access_right": "open",
-  "description": "<p>Current version: <a href=\"https://github.com/GLAM-Workbench/trove-people/releases/tag/v1.0.0\">v1.0.0</a></p> <p>Examples of working with data from Trove’s People and Organisations zone. For more information see the <a href=\"https://glam-workbench.net/trove-people-and-organisations/\">Trove People and Organisations</a> section of the GLAM Workbench.</p> <h2 id=\"notebook-topics\">Notebook topics</h2> <ul> <li>Harvesting the complete set of data from the People and Organisations zone</li> <li>Extract some aggregated data from the complete harvest</li> <li>Harvest SRU API results as JSON</li> <li>Visualising intersections and overlaps between data sources</li> <li>Get VIAF links relating to Trove People &amp; Organisation records</li> </ul> <p>See the <a href=\"https://glam-workbench.github.io/trove-people-and-organisations/\">GLAM Workbench for more details</a>.</p> <h2 id=\"cite-as\">Cite as</h2> <p>See the <a href=\"https://glam-workbench.net/trove-people-and-organisations/#cite-as\">GLAM Workbench</a> or <a href=\"https://doi.org/10.5281/zenodo.6622312\">Zenodo</a> for up-to-date citation details.</p> <hr /> <p>This repository is part of the <a href=\"https://glam-workbench.github.io/\">GLAM Workbench</a>.</p>"
+  "description": "<p>Current version: <a href=\"https://github.com/GLAM-Workbench/trove-people/releases/tag/v1.0.0\">v1.0.0</a></p> <p>Examples of working with data from Trove’s People and Organisations zone. For more information see the <a href=\"https://glam-workbench.net/trove-people-and-organisations/\">Trove People and Organisations</a> section of the GLAM Workbench.</p> <h2 id=\"notebook-topics\">Notebook topics</h2> <ul> <li>Harvesting the complete set of data from the People and Organisations zone</li> <li>Harvesting the complete set of data from the People and Organisations zone using OAI-PMH</li> <li>Extract some aggregated data from the complete harvest</li> <li>Harvest SRU API results as JSON</li> <li>Visualising intersections and overlaps between data sources</li> <li>Get VIAF links relating to Trove People &amp; Organisation records</li> </ul> <p>See the <a href=\"https://glam-workbench.github.io/trove-people-and-organisations/\">GLAM Workbench for more details</a>.</p> <h2 id=\"cite-as\">Cite as</h2> <p>See the <a href=\"https://glam-workbench.net/trove-people-and-organisations/#cite-as\">GLAM Workbench</a> or <a href=\"https://doi.org/10.5281/zenodo.6622312\">Zenodo</a> for up-to-date citation details.</p> <hr /> <p>This repository is part of the <a href=\"https://glam-workbench.github.io/\">GLAM Workbench</a>.</p>"
 }

@@ -1,32 +1,32 @@
 agency_id,agency_name,total
-AuCNLKIN,Libraries Australia,995720
-AU-ANL:PEAU,National Library of Australia Party Infrastructure,1303464
-AU-SAUS,AusStage,170286
-AU-ANU:ADBO,Australian Dictionary of Biography,13382
-AU-AIAS,AIATSIS Aboriginal Biographical Index,48341
-AU-NUN:DAAO,Design & Art Australia Online,16982
-AU-QPRO,The Prosecution Project,57243
-AU-VU,University of Melbourne,2964
-AU-YORCID,ORCID,25010
-AU-VU:AWR,The Australian Women's Register,6698
-AU-QGU,Griffith University,1602
-AU-VU:EOAS,Encyclopedia of Australian Science,8250
+AuCNLKIN,Libraries Australia,998929
+AU-ANL:PEAU,National Library of Australia Party Infrastructure,1309339
+AU-SAUS,AusStage,173307
+AU-ANU:ADBO,Australian Dictionary of Biography,13433
+AU-AIAS,AIATSIS Aboriginal Biographical Index,48360
+AU-NUN:DAAO,Design & Art Australia Online,17003
+AU-QPRO,The Prosecution Project,57214
+AU-VU,University of Melbourne,2966
+AU-YORCID,ORCID,24998
+AU-VU:AWR,The Australian Women's Register,6699
+AU-QGU,Griffith University,1601
+AU-VU:EOAS,Encyclopedia of Australian Science,8259
 AU-QJCU,"James Cook University, Australia",457
 AU-NAMO,Australian Music Online,2170
 AU-NMUS:CAN,Collections Australia Network,1692
-AU-ANU:OA,Obituaries Australia,7987
-AU-APAR,Australian Parliamentary Library,1778
-AU-NAMC,Australian Music Centre,591
-AU-NSAL,Sydney's Aldermen,1034
-AU-VPRO,Public Records Office Victoria,2728
+AU-ANU:OA,Obituaries Australia,8115
+AU-APAR,Australian Parliamentary Library,1825
+AU-NAMC,Australian Music Centre,601
+AU-NSAL,Sydney's Aldermen,1048
+AU-VPRO,Public Records Office Victoria,2727
 AU-ANL:AD,Australia Dancing,325
-AU-APC:WB,Australian Paralympic Committee,786
+AU-APC:WB,Australian Paralympic Committee,790
 AU-NNCU,University of Newcastle,37
 AU-VSWT,Swinburne University of Technology,90
-AU-QUT,Queensland University of Technology,191
+AU-QUT,Queensland University of Technology,202
 AU-VDU,"Deakin University, Australia",193
 AU-ANL:MA,Music Australia,255
-AU-WS:AUS,AuScope,127
+AU-WS:AUS,AuScope,126
 AU-ANL:MA-DM,destra Media,410
 AU-NUWS,University of Western Sydney,172
 AU-NTSM,"University of Technology, Sydney",128
@@ -52,20 +52,20 @@ OCLC-NLA,NLA,14
 OCLC-LC,LC,13
 AU-ANL:PO,National Library of Australia People and Organisations,5
 AU-VAFI,RMIT University,8
-OCLC-BNF,BNF,8
 OCLC-PTBNP,PTBNP,2
-OCLC-NKC,NKC,4
 OCLC-NUKAT,NUKAT,3
 OCLC-DNB,DNB,8
 OCLC-BNE,BNE,5
+OCLC-BNF,BNF,8
+OCLC-NKC,NKC,4
 OCLC-JPG,JPG,3
-OCLC-NLIlat,NLIlat,2
-OCLC-BAV,BAV,1
-OCLC-LAC,LAC,2
-OCLC-RERO,RERO,2
-OCLC-EGAXA,EGAXA,2
 OCLC-SELIBR,SELIBR,1
+OCLC-LAC,LAC,2
+OCLC-BAV,BAV,1
+OCLC-RERO,RERO,2
+OCLC-NLIlat,NLIlat,2
 OCLC-SUDOC,SUDOC,1
+OCLC-EGAXA,EGAXA,2
 TO-DO,"The University of Examples, Australia",2
 OCLC-VIAF:TEST,VIAF: The Virtual International Authority File,3
 OCLC-NLIara,NLIara,1
